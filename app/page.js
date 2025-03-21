@@ -14,7 +14,7 @@ export default function Home() {
           </h3>
           <button
             type="button"
-            onClick={() => (window.location = "mailto:pjdarji2216@gmail.com")}
+            onClick={() => (window.location = "mailto:pratha.developer22@gmail.com")}
             className="bg-[#ceff06] hover:bg-[#dffd07] p-2 w-60 font-bold"
           >
             EMAIL ME
